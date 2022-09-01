@@ -66,7 +66,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS + Tailwind Portfolio
+                React JS Portfolio
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -89,7 +89,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS + Firebase Todo App
+                React JS Todo App
               </span>
               <div className="pt-8 text-center">
                 <a href="https://github.com/rattanun00000/todoapp">
